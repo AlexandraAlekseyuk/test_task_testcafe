@@ -1,0 +1,15 @@
+{
+  "name": "example_testcafe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": " testcafe chrome test.js"
+  },
+  "keywords": [],
+  "author": "Alekseyuk",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^1.17.1"
+  }
+}
